@@ -7,23 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-# Dr. Chang Liu (Cuki)
+# Dr. Chang Liu (Cuki) 
 
-Welcome! I am Dr. Chang Liu. I received my MSc in Electrical Engineering and PhD in Computer Engineering from Budapest University of Technology and Economics (BME), Hungary. I am currently an Assistant Professor in the Department of Networked Systems and Services at the Faculty of Electrical Engineering and Informatics (VIK), BME, and a Research Fellow at the Machine Perception Research Laboratory, HUN-REN Institute for Computer Science and Control (HUN-REN SZTAKI).
+👋 Welcome! I am Dr. Chang Liu. I received my MSc in Electrical Engineering and PhD in Computer Engineering from Budapest University of Technology and Economics (BME), Hungary. I am currently an Assistant Professor in the Department of Networked Systems and Services at the Faculty of Electrical Engineering and Informatics (VIK), BME, and a Research Fellow at the Machine Perception Research Laboratory, HUN-REN Institute for Computer Science and Control (HUN-REN SZTAKI).
 
-My research interests include:
+🚀 My research interests include:
 
-- Artificial Intelligence & Deep Learning
-- Machine Vision & Remote Sensing
-- UAV-based Rescue Systems
-- Satellite–Drone Collaboration for Navigation and Road Extraction
-- Autonomous Driving Applications
+- 🤖 Artificial Intelligence & Deep Learning
+- 🖼️ Machine Vision & Remote Sensing
+- 🚁 UAV-based Rescue Systems
+- 🛰️ Satellite–Drone Collaboration for Navigation and Road Extraction
+- 🚗 Autonomous Driving Applications
 
 I welcome applications from master’s students interested in research projects related to these fields.
 
 ---
 
-## 🔹 News
+## 📰 News
 - *2025*: Started as Assistant Professor at **BME-VIK-HIT** 🎉  
 - *2025-08*: Paper accepted at **ICCV 2025** on DriveX workshop
 - *2024*: Started as Lecture at **BME-VIK-HIT** 🎉 
@@ -33,14 +33,14 @@ Check out my [Publications](/publications/) and [CV](/files/CV.pdf) for more det
 
 ---
 
-## 🔹 Teaching
+## 📚 Teaching
 I teach and supervise the following courses and projects:
 
-- Communication Networks
-- [Basics of Programming 1](https://www.eet.bme.hu/~nemeth/index/)
-- Advanced Mobile and Wireless Networks (VIHIMA16)
-- Project Laboratory (Supervisor)
-- M.Sc. Thesis Supervision — Honorably graduated in July 2025:
+- 🌐 Communication Networks
+- 📘 [Basics of Programming 1](https://www.eet.bme.hu/~nemeth/index/)
+- 📡 Advanced Mobile and Wireless Networks (VIHIMA16)
+- 🧪 Project Laboratory (Supervisor)
+- 🎓 M.Sc. Thesis Supervision — Honorably graduated in July 2025:
   - [ZheXiong Xue](https://scholar.google.com.hk/citations?user=_IlWDnEBVQ8C&hl=en&oi=sra)
   -[Yang Xu](https://www.linkedin.com/in/ACoAAC-RGo0BIWqD0xU_9FITUvjoiq2-WzVfog8/)
 
