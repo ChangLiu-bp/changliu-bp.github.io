@@ -42,7 +42,7 @@ I teach and supervise the following courses and projects:
 - Project Laboratory (Supervisor)
 - M.Sc. Thesis Supervision — Honorably graduated in July 2025:
   [ZheXiong Xue](https://scholar.google.com.hk/citations?user=_IlWDnEBVQ8C&hl=en&oi=sra)
-  [Yang Xy](https://www.linkedin.com/in/ACoAAC-RGo0BIWqD0xU_9FITUvjoiq2-WzVfog8/)
+  [Yang Xu](https://www.linkedin.com/in/ACoAAC-RGo0BIWqD0xU_9FITUvjoiq2-WzVfog8/)
 
 
 📍 **Budapest, Hungary**  
