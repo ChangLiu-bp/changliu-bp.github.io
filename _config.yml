@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Dr. Chang Liu"
+title                    : "Dr. Chang Liu (Cuki)"
 title_separator          : "-"
-name                     : &name "Dr.Chang Liu"
+name                     : &name "Dr. Chang Liu (Cuki)"
 description              : &description "Assistant Professor @ BME | Research Fellow @ SZTAKI"
 url                      : https://changliu-bp.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
