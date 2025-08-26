@@ -13,11 +13,11 @@ Welcome! I am Dr. Chang Liu. I received my MSc in Electrical Engineering and PhD
 
 My research interests include:
 
--Artificial Intelligence & Deep Learning
--Machine Vision & Remote Sensing
--UAV-based Rescue Systems
--Satellite–Drone Collaboration for Navigation and Road Extraction
--Autonomous Driving Applications
+- Artificial Intelligence & Deep Learning
+- Machine Vision & Remote Sensing
+- UAV-based Rescue Systems
+- Satellite–Drone Collaboration for Navigation and Road Extraction
+- Autonomous Driving Applications
 
 I welcome applications from master’s students interested in research projects related to these fields.
 
