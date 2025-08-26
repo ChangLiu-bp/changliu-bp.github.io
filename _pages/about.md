@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Chang Liu (Cuki)"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 # Dr. Chang Liu (Cuki)
 
-Welcome! I am **Dr. Chang Liu**, an Assistant Researcher at the **Department of Networked Systems and Services, Faculty of Electrical Engineering and Informatics, Budapest University of Technology and Economics (BME)**, and a Research Fellow at **Machine Perception Research Laboratory, HUN-REN Institute for Computer Science and Control (HUN-REN SZTAKI)**.
+Welcome! I am **Dr. Chang Liu**, an Assistant Professor at the **Department of Networked Systems and Services, Faculty of Electrical Engineering and Informatics, Budapest University of Technology and Economics (BME)**, and a Research Fellow at **Machine Perception Research Laboratory, HUN-REN Institute for Computer Science and Control (HUN-REN SZTAKI)**.
 
 My research focuses on:  
 - **UAV-based human detection and gesture recognition**  
