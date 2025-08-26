@@ -20,8 +20,10 @@ My research focuses on:
 ---
 
 ## 🔹 News
-- *2025-08*: Started as Assistant Researcher at **BME-VIK-HIT** 🎉  
-- *2025-07*: Paper accepted at **ICCV 2025 workshop** on UAV rescue and human–drone interaction  
+- *2025-10*: Started as Assistant Researcher at **BME-VIK-HIT** 🎉  
+- *2025-08*: Paper accepted at **ICCV 2025** on DriveX workshop
+- *2024-10*: Started as Lecture at **BME-VIK-HIT** 🎉 
+- *2022-05*: Started as Research Fellow at **HUN-REN SZTAKI** 🎉  
 
 Check out my [Publications](/publications/) and [CV](/files/CV.pdf) for more details.
 
