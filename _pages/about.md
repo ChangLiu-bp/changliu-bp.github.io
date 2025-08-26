@@ -19,7 +19,7 @@ redirect_from:
 - 🛰️ Satellite–Drone Collaboration for Navigation and Road Extraction
 - 🚗 Autonomous Driving Applications
 
-I welcome applications from master’s students interested in research projects related to these fields.
+✨ I welcome applications from master’s students interested in research projects related to these fields.
 
 ---
 
