@@ -41,8 +41,8 @@ I teach and supervise the following courses and projects:
 - Advanced Mobile and Wireless Networks (VIHIMA16)
 - Project Laboratory (Supervisor)
 - M.Sc. Thesis Supervision — Honorably graduated in July 2025:
-  [Xuezhe Xiong](https://scholar.google.com.hk/citations?user=_IlWDnEBVQ8C&hl=en&oi=sra)
-  [Xu Yang](https://www.linkedin.com/in/ACoAAC-RGo0BIWqD0xU_9FITUvjoiq2-WzVfog8/)
+  [ZheXiong Xue](https://scholar.google.com.hk/citations?user=_IlWDnEBVQ8C&hl=en&oi=sra)
+  [Yang Xy](https://www.linkedin.com/in/ACoAAC-RGo0BIWqD0xU_9FITUvjoiq2-WzVfog8/)
 
 
 📍 **Budapest, Hungary**  
