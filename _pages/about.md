@@ -59,5 +59,5 @@ I teach and supervise the following courses and projects:
 
 
 📍 **Budapest, Hungary**  
-📧 [changliu@hit.bme.hu](mailto:changliu@hit.bme.hu)  
+📧 [changliu@hit.bme.hu](mailto:changliu@hit.bme.hu)  [changliu@sztaki.hu](mailto:changliu@sztaki.hu)  
 🌐 [Google Scholar](https://scholar.google.com.hk/citations?user=-azXsEwAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0001-6610-5348) | [ResearchGate](https://www.researchgate.net/profile/Chang-Liu-367) | [GitHub](https://github.com/ChangLiu-bp) | [LinkedIn](https://www.linkedin.com/in/dr-chang-liu-9305a7180/)
