@@ -26,7 +26,7 @@ redirect_from:
 ---
 
 ## 📰 News 
-- *2025-08*: **2** papers accepted at **ICCV 2025**，Oct 19 – 23th, 2025, Honolulu, Hawai'i✈️
+- *2025-08*: ✈️ **2 papers accepted** at **ICCV 2025**, Oct 19–23, Honolulu, Hawai'i 🎉
 - *2025-06*: 🎉 Honored to receive the **Intézeti díj (Institute Award)** from **HUN-REN SZTAKI** 🏆  
 - *2025-06*: Paper accepted at **67th International Symposium ELMAR-2025** 15-17 September 2025 Zadar, Croatia✈️
 - *2025-04*: Selected for the **2025 Fellowship Program for Promoting Women, Young Professionals, and Leadership in ITS** by **IEEE ITSS** 👩‍💼🌐 Paris, France✈️
