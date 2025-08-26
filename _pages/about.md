@@ -15,7 +15,7 @@ My research focuses on:
 - **UAV-based human detection and gesture recognition**  
 - **Emergency rescue and disaster response**  
 - **Satellite–drone collaboration for navigation and road extraction**  
-- **AI for AV**
+- **AI for Autonomous Driving**
 
 ---
 
