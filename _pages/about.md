@@ -24,7 +24,7 @@ I welcome applications from master’s students interested in research projects 
 ---
 
 ## 🔹 News
-- *2025*: Started as Assistant Researcher at **BME-VIK-HIT** 🎉  
+- *2025*: Started as Assistant Professor at **BME-VIK-HIT** 🎉  
 - *2025-08*: Paper accepted at **ICCV 2025** on DriveX workshop
 - *2024*: Started as Lecture at **BME-VIK-HIT** 🎉 
 - *2022*: Started as Research Fellow at **HUN-REN SZTAKI** 🎉  
