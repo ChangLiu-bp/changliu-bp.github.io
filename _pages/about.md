@@ -9,21 +9,29 @@ redirect_from:
 
 # Dr. Chang Liu (Cuki)
 
-Welcome! I am **Dr. Chang Liu**, an Assistant Professor at the **Department of Networked Systems and Services, Faculty of Electrical Engineering and Informatics, Budapest University of Technology and Economics (BME)**, and a Research Fellow at **Machine Perception Research Laboratory, HUN-REN Institute for Computer Science and Control (HUN-REN SZTAKI)**.
+Welcome! I am Dr. Chang Liu. I received my MSc in Electrical Engineering and PhD in Computer Engineering from Budapest University of Technology and Economics (BME), Hungary. I am currently an Assistant Professor in the Department of Networked Systems and Services at the Faculty of Electrical Engineering and Informatics (VIK), BME, and a Research Fellow at the Machine Perception Research Laboratory, HUN-REN Institute for Computer Science and Control (HUN-REN SZTAKI).
 
-My research focuses on:  
-- **UAV-based human detection and gesture recognition**  
-- **Emergency rescue and disaster response**  
-- **Satellite–drone collaboration for navigation and road extraction**  
-- **AI for Autonomous Driving**
+My research interests include:
+
+-Artificial Intelligence & Deep Learning
+
+-Machine Vision & Remote Sensing
+
+-UAV-based Rescue Systems
+
+-Satellite–Drone Collaboration for Navigation and Road Extraction
+
+-Autonomous Driving Applications
+
+I welcome applications from master’s students interested in research projects related to these fields.
 
 ---
 
 ## 🔹 News
-- *2025-10*: Started as Assistant Researcher at **BME-VIK-HIT** 🎉  
+- *2025*: Started as Assistant Researcher at **BME-VIK-HIT** 🎉  
 - *2025-08*: Paper accepted at **ICCV 2025** on DriveX workshop
-- *2024-10*: Started as Lecture at **BME-VIK-HIT** 🎉 
-- *2022-05*: Started as Research Fellow at **HUN-REN SZTAKI** 🎉  
+- *2024*: Started as Lecture at **BME-VIK-HIT** 🎉 
+- *2022*: Started as Research Fellow at **HUN-REN SZTAKI** 🎉  
 
 Check out my [Publications](/publications/) and [CV](/files/CV.pdf) for more details.
 
