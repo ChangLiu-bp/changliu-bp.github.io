@@ -28,8 +28,12 @@ redirect_from:
 ## 📰 News
 - *2025*: Started as Assistant Professor at **BME-VIK-HIT** 🎉  
 - *2025-08*: Paper accepted at **ICCV 2025** on DriveX workshop
-- *2024*: Started as Lecture at **BME-VIK-HIT** 🎉 
-- *2022*: Started as Research Fellow at **HUN-REN SZTAKI** 🎉  
+- *2024*: Started as Lecture at **BME-VIK-HIT** 🎉
+- *2023*: Selected as **Committee Member of IEEE ITSS Young Professionals** 👩‍💻 [IEEE ITSS YP](https://ieee-itss.org/yp/)
+- *2022*: Started as Research Fellow at **HUN-REN SZTAKI** 🎉
+- *2022-11*: Awarded **IEEE ITSS Young Professionals Travelling Fellowship 2022**, 25–27 November 2022, Chania, Crete, Greece ✈️
+- *2021*: Article **“Real-Time Human Detection and Gesture Recognition for On-Board UAV Rescue”**, selected as **Editor’s Choice Article** 🏆
+- 
 
 Check out my [Publications](/publications/) and [CV](/files/CV.pdf) for more details.
 
