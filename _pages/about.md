@@ -53,7 +53,7 @@ I teach and supervise the following courses and projects:
 - 📘 [Basics of Programming 1](https://www.eet.bme.hu/~nemeth/index/)
 - 📡 Advanced Mobile and Wireless Networks (VIHIMA16)
 - 🧪 Project Laboratory (Supervisor)
-- 🎓 M.Sc. Thesis Supervisor — **Honorably graduated** in July 2025:
+- 🎓 M.Sc. Thesis Supervisor — **Honorably graduated** in July 2025.
   - [ZheXiong Xue](https://scholar.google.com.hk/citations?user=_IlWDnEBVQ8C&hl=en&oi=sra)
   ；[Yang Xu](https://www.linkedin.com/in/ACoAAC-RGo0BIWqD0xU_9FITUvjoiq2-WzVfog8/)
 
