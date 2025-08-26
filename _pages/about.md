@@ -29,4 +29,4 @@ Check out my [Publications](/publications/) and [CV](/files/CV.pdf) for more det
 
 📍 **Budapest, Hungary**  
 📧 [changliu@hit.bme.hu](mailto:changliu@hit.bme.hu)  
-🌐 [Google Scholar]([https://scholar.google.com/citations?user=PS_CX0AAAAAJ](https://scholar.google.com.hk/citations?user=-azXsEwAAAAJ&hl=en)) | [ORCID]([(https://orcid.org/0000-0001-6610-5348)]) | [ResearchGate]((https://www.researchgate.net/profile/Chang-Liu-367)) | [GitHub](https://github.com/ChangLiu-bp) | [LinkedIn](https://www.linkedin.com/in/dr-chang-liu-9305a7180/)
+🌐 [Google Scholar]((https://scholar.google.com.hk/citations?user=-azXsEwAAAAJ&hl=en)) | [ORCID]((https://orcid.org/0000-0001-6610-5348)) | [ResearchGate]((https://www.researchgate.net/profile/Chang-Liu-367)) | [GitHub](https://github.com/ChangLiu-bp) | [LinkedIn](https://www.linkedin.com/in/dr-chang-liu-9305a7180/)
