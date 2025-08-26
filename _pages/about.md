@@ -29,7 +29,7 @@ redirect_from:
 - *2025-08*: Paper accepted at **ICCV 2025** on DriveX workshop，Oct 19 – 23th, 2025, Honolulu, Hawai'i✈️
 - *2025-06*: 🎉 Honored to receive the **Intézeti díj (Institute Award)** from **HUN-REN SZTAKI** 🏆  
 - *2025-06*: Paper accepted at **67th International Symposium ELMAR-2025** 15-17 September 2025 Zadar, Croatia✈️
-- *2025*: Selected for the **2025 Fellowship Program for Promoting Women, Young Professionals, and Leadership in ITS** by **IEEE ITSS** 👩‍💼🌐 Paris, France✈️
+- *2025-04*: Selected for the **2025 Fellowship Program for Promoting Women, Young Professionals, and Leadership in ITS** by **IEEE ITSS** 👩‍💼🌐 Paris, France✈️
 - *2024-09*: 📢 Our paper was presented at the **IEEE International Conference on Intelligent Transportation Systems (ITSC 2024), Edmonton, Canada**. Paper: *Towards Understanding Worldwide Cross-Cultural Differences in Implicit Driving Cues: Review, Comparative Analysis, and Research Roadmap*  
 - *2024-04*: Participated in **2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024)**, Seoul, Korea ✈️
 - *2023-11*: 🎉 Selected as one of the **IEEE ITSS WiE/YP Fellowship Recipients** 🌟 Attended the annual ITS Workshop and Research Forum in Cairo, Egypt (20–22 Nov)✈️
