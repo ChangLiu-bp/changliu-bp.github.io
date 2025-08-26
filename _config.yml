@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Dr.Chang Liu"
+title                    : "Dr. Chang Liu"
 title_separator          : "-"
 name                     : &name "Dr.Chang Liu"
 description              : &description "Assistant Professor @ BME | Research Fellow @ SZTAKI"
@@ -23,11 +23,11 @@ repository               : "ChangLiu-bp/ChangLiu-bp.github.io"
 author:
   # Biographic information
   avatar           : "CL-cv.jpg"
-  name             : "Dr.Chang Liu"
+  name             : "Dr. Chang Liu"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor @ BME | Research Fellow @ SZTAKI"
   location         : "Budapest, Hungary"
-  employer         : "Budapest University of Technology and Economics（BME）| HUN-REN Institute for Computer Science and Control (HUN-REN SZTAKI)"
+  employer         : "BME | HUN-REN SZTAKI"
   uri              : "https://changliu-bp.github.io"
   email            : "changliu@hit.bme.hu | changliu@sztaki.hu " 
 
