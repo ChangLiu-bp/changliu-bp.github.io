@@ -14,13 +14,9 @@ Welcome! I am Dr. Chang Liu. I received my MSc in Electrical Engineering and PhD
 My research interests include:
 
 -Artificial Intelligence & Deep Learning
-
 -Machine Vision & Remote Sensing
-
 -UAV-based Rescue Systems
-
 -Satellite–Drone Collaboration for Navigation and Road Extraction
-
 -Autonomous Driving Applications
 
 I welcome applications from master’s students interested in research projects related to these fields.
@@ -36,6 +32,18 @@ I welcome applications from master’s students interested in research projects 
 Check out my [Publications](/publications/) and [CV](/files/CV.pdf) for more details.
 
 ---
+
+## 🔹 Teaching
+I teach and supervise the following courses and projects:
+
+- Communication Networks
+- [Basics of Programming 1](https://www.eet.bme.hu/~nemeth/index/)
+- Advanced Mobile and Wireless Networks (VIHIMA16)
+- Project Laboratory (Supervisor)
+- M.Sc. Thesis Supervision — Honorably graduated in July 2025:
+  [Xuezhe Xiong](https://scholar.google.com.hk/citations?user=_IlWDnEBVQ8C&hl=en&oi=sra)
+  [Xu Yang] (https://www.linkedin.com/in/ACoAAC-RGo0BIWqD0xU_9FITUvjoiq2-WzVfog8/)
+
 
 📍 **Budapest, Hungary**  
 📧 [changliu@hit.bme.hu](mailto:changliu@hit.bme.hu)  
