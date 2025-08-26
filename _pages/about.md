@@ -20,7 +20,8 @@ redirect_from:
 - 🚗 Autonomous Driving Applications
 
 ✨ I welcome applications from master’s students interested in research projects related to these fields.
-📬 **Interested in my research? ** Please send your **CV and transcript** to [changliu@hit.bme.hu](mailto:changliu@hit.bme.hu) 📧
+📬 **Interested in my research?** 
+Please send your **CV and transcript** to [changliu@hit.bme.hu](mailto:changliu@hit.bme.hu) 📧
 
 
 ---
