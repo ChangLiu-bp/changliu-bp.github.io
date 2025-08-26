@@ -21,7 +21,7 @@ redirect_from:
 
 ✨ I welcome applications from master’s students interested in research projects related to these fields.
 📬 **Interested in my research?** 
-Please send your **CV and transcript** to [changliu@hit.bme.hu](mailto:changliu@hit.bme.hu); [changliu@sztaki.hu](mailto:changliu@sztaki.hu)  📧
+Please send your **CV and transcript** to 📧 [changliu@hit.bme.hu](mailto:changliu@hit.bme.hu); [changliu@sztaki.hu](mailto:changliu@sztaki.hu)  
 
 
 ---
