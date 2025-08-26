@@ -27,12 +27,14 @@ redirect_from:
 
 ## 📰 News 
 - *2025*: Started as Assistant Professor at **BME-VIK-HIT** 🎉 
-- *2025-08*: Paper accepted at **ICCV 2025** on DriveX workshop，Oct 19 – 23th, 2025, Honolulu, Hawai'i
+- *2025-08*: Paper accepted at **ICCV 2025** on DriveX workshop，Oct 19 – 23th, 2025, Honolulu, Hawai'i✈️
 - *2025-06*: 🎉 Honored to receive the **Intézeti díj (Institute Award)** from **HUN-REN SZTAKI** 🏆  
-- *2025-06*: Paper accepted at **67th International Symposium ELMAR-2025** 15-17 September 2025 Zadar, Croatia
+- *2025-06*: Paper accepted at **67th International Symposium ELMAR-2025** 15-17 September 2025 Zadar, Croatia✈️
+- *2025*: Selected for the **2025 Fellowship Program for Promoting Women, Young Professionals, and Leadership in ITS** by **IEEE ITSS** 👩‍💼🌐 Paris, France✈️
 - *2024*: Started as Lecture at **BME-VIK-HIT** 🎉
-- *2023-11*: Presented **“Optimal Wildfire Escape Route Planning for Drones under Dynamic Fire and Smoke”** at **IEEE SITIS 2023**, Bangkok, Thailand 🔥🛰️  
-- *2023-09*: Presented **“Active Wildfires Detection and Dynamic Escape Routes Planning for Humans through Information Fusion between Drones and Satellites”** at **IEEE ITSC 2023**, Bilbao, Spain 🌍🚁  
+- *2024-04*: Participated in **2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024)**, Seoul, Korea ✈️
+- *2023-11*: Presented **“Optimal Wildfire Escape Route Planning for Drones under Dynamic Fire and Smoke”** at **IEEE SITIS 2023**, Bangkok, Thailand 🔥🛰️✈️
+- *2023-09*: Presented **“Active Wildfires Detection and Dynamic Escape Routes Planning for Humans through Information Fusion between Drones and Satellites”** at **IEEE ITSC 2023**, Bilbao, Spain 🌍🚁✈️
 - *2023-02*: Selected as **Committee Member of IEEE ITSS Young Professionals** 👩‍💻 [IEEE ITSS YP](https://ieee-itss.org/yp/)
 - *2022*: Started as Research Fellow at **HUN-REN SZTAKI** 🎉
 - *2022-11*: Awarded **IEEE ITSS Young Professionals Travelling Fellowship 2022**, 25–27 November 2022, Chania, Crete, Greece ✈️
