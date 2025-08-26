@@ -25,10 +25,10 @@ redirect_from:
 
 ---
 
-## 📰 News
-- *2025*: Started as Assistant Professor at **BME-VIK-HIT** 🎉  
+## 📰 News 
 - *2025-08*: Paper accepted at **ICCV 2025** on DriveX workshop，Oct 19 – 23th, 2025, Honolulu, Hawai'i
 - *2025-06*: Paper accepted at **67th International Symposium ELMAR-2025** 15-17 September 2025 Zadar, Croatia
+- *2025*: Started as Assistant Professor at **BME-VIK-HIT** 🎉 
 - *2024*: Started as Lecture at **BME-VIK-HIT** 🎉
 - *2023-11*: Presented **“Optimal Wildfire Escape Route Planning for Drones under Dynamic Fire and Smoke”** at **IEEE SITIS 2023**, Bangkok, Thailand 🔥🛰️  
 - *2023-09*: Presented **“Active Wildfires Detection and Dynamic Escape Routes Planning for Humans through Information Fusion between Drones and Satellites”** at **IEEE ITSC 2023**, Bilbao, Spain 🌍🚁  
