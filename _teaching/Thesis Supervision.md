@@ -1,4 +1,3 @@
-
 ---
 title: "Thesis Supervision"
 collection: teaching
