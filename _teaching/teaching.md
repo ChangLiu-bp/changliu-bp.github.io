@@ -7,7 +7,6 @@ date: 2019
 location: "Budapest, Hungary"
 ---
 
-
 ## Courses by Semester
 
 ### 🌐 Communication Networks — Spring Semester
