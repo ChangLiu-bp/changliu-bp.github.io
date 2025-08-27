@@ -7,7 +7,7 @@ excerpt: ''
 date: 2021-02-19
 venue: "Sensors 21 (6), 2180"
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '[http://academicpages.github.io/files/sensors-21-02180-v2 (16).pdf](https://www.mdpi.com/1424-8220/21/6/2180)'
+paperurl: '[http://academicpages.github.io/files/sensors-21-02180-v2.pdf](https://www.mdpi.com/1424-8220/21/6/2180)'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'C Liu, T Szirányi. (2021). "Real-Time Human Detection and Gesture Recognition for On-Board UAV Rescue." <i>Sensors</i>. 21(6):2180. Editor’s Choice Article.'
 ---
