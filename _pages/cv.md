@@ -51,9 +51,9 @@ Teaching
   
 Service and Leadership
 ======
-**Session Co-Chair**, UAV Session, IEEE ITSC 2023， 26th IEEE International Conference on Intelligent Transportation Systems，17–19 Nov 2023，📍 Bilbao, Spain
-**Session Chair**, Deep Learning & Neural Networks, Session 2A, 3rd International Conference on Image Processing and Vision Engineering (IMPROVE 2023)，22 April 2023，📍 Prague, Czech Republic
-**Publicity Chair** 🎤, Roboi 2025， Nov 20–22, 2025，📍 Osaka, Japan
-**Committee Member**, IEEE ITSS Young Professionals Committee， 2022–Present
-**Mentorship & Supervision**
+- **Session Co-Chair**, UAV Session, IEEE ITSC 2023， 26th IEEE International Conference on Intelligent Transportation Systems，17–19 Nov 2023，📍 Bilbao, Spain
+- **Session Chair**, Deep Learning & Neural Networks, Session 2A, 3rd International Conference on Image Processing and Vision Engineering (IMPROVE 2023)，22 April 2023，📍 Prague, Czech Republic
+- **Publicity Chair** 🎤, Roboi 2025， Nov 20–22, 2025，📍 Osaka, Japan
+- **Committee Member**, IEEE ITSS Young Professionals Committee， 2022–Present
+- **Mentorship & Supervision**
   - M.Sc. Thesis Supervisor: Xuezhe Xiong, Xu Yang (Honorably graduated July 2025)
