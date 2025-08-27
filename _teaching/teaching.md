@@ -1,0 +1,31 @@
+---
+title: "Teaching Experience"
+collection: teaching
+permalink: /teaching
+venue: "Budapest University of Technology and Economics (BME), Department of Networked Systems and Services "
+date: 2024-01-01
+location: "Budapest, Hungary"
+---
+
+I teach and supervise the following courses and projects:
+
+## Courses by Semester
+
+### 🌐 Communication Networks — Spring Semester
+- Introduction to network fundamentals and protocols.
+- Weekly labs with practical exercises.
+
+### 📘 Basics of Programming 1 — Fall Semester
+- Fundamental programming concepts using C.
+- Weekly coding assignments and quizzes.
+
+### 📡 Advanced Mobile and Wireless Networks (VIHIMA16) — Fall Semester
+- Advanced concepts in mobile and wireless communications.
+- Lectures every week for 2 hours.
+
+### 🧪 Project Laboratory (Supervisor) — Every Semester
+- Supervised lab projects during all semesters.
+
+## M.Sc. Thesis Supervision — Every Year
+- ZheXiong Xue — Honorably graduated in July 2025
+- Yang Xu — Honorably graduated in July 2025
