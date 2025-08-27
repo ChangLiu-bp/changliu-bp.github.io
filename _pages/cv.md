@@ -13,7 +13,7 @@ Education
 ======
 * **Ph.D. in Computer Engineering**, Budapest University of Technology and Economics (BME), 2019–2023  
 * **M.Sc. in Electrical Engineering**, Budapest University of Technology and Economics (BME), 2017–2019  
-**B.Sc. in Electronic Information Engineering**, Chengdu University of Information Technology, China, 2013–2017  
+* **B.Sc. in Electronic Information Engineering**, Chengdu University of Information Technology, 2013–2017  
 - Exchange Student: National Central University, Taiwan, 2016  
 - Exchange Student: The University of Hong Kong, Hong Kong, 2014   
 
