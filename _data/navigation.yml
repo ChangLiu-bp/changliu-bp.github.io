@@ -18,9 +18,7 @@ main:
     url: /teaching/    
     
   - title: "Research Demo"
-    url: /portfolio/
-        
-
+    url: /portfolio/     
     
   - title: "CV"
     url: /cv/
