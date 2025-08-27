@@ -18,7 +18,7 @@ Education
 - Exchange Student: The University of Hong Kong, Hong Kong, 2014   
 
 ## Work Experience
-======
+
 - **2024 – Present:** Assistant Professor, Department of Networked Systems and Services, Faculty of Electrical Engineering and Informatics (VIK), BME   
 
 - **2022 – Present:** Research Fellow, Machine Perception Research Laboratory, HUN-REN Institute of Computer Science and Control (SZTAKI)  
