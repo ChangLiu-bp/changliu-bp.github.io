@@ -12,7 +12,7 @@ location: "Budapest, Hungary"
 
 ### Cross-Domain Few-Shot and Zero-Shot Road Detection from Satellite to UAV Imagery
 - Semester: 2025-2026. Coordinator: Liu Chang PhD
-- 
+
 ### LLM and Diffusion-Based Intelligent Path Planning and Execution for Spot Robot
 - Semester: 2025-2026. Coordinator: Liu Chang PhD
 
