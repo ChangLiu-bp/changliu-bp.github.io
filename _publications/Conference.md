@@ -1,7 +1,7 @@
 ---
 title: "D3FNet: A Differential Attention Fusion Network for Fine-Grained Road Structure Extraction in Remote Perception Systems"
 collection: publications
-category: conferences
+category: conference
 permalink: /publication/Conference
 excerpt: ''
 date: 2025-10-19
