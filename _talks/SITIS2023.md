@@ -17,5 +17,5 @@ This talk presents a method for optimal wildfire escape route planning specifica
 
 **Authors:** Chang Liu, Tamás Szirányi  
 
-**Citations:** C Liu, T Szirányi - 2023 17th International Conference on Signal Image Technology & Internet based Systems (IEEE SITIS 2023), cited by 2.  
+**Citations:** C Liu, T Szirányi - 2023 17th International Conference on Signal Image Technology & Internet based Systems (IEEE SITIS 2023).  
 **PDF:** [View on arXiv](https://arxiv.org/abs/2312.03521)  <!-- 替换为实际 arXiv PDF 链接 -->
