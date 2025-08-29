@@ -1,7 +1,7 @@
 ---
 title: "Active Wildfires Detection and Dynamic Escape Routes Planning for Humans through Information Fusion between Drones and Satellites"
 collection: publications
-category: conferences
+category: conference
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2023-09-27
