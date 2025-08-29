@@ -25,5 +25,5 @@ location: "Budapest, Hungary"
 - Supervised lab projects during all semesters.
 
 ## M.Sc. Thesis Supervision
-- See [Thesis Supervision](/teaching/Thesis-Supervision) for details.
+- See [Thesis Supervision](/_teaching/Thesis-Supervision) for details.
 
