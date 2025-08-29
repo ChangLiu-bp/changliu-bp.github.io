@@ -1,4 +1,3 @@
-
 ---
 title: "A Global Multi-Temporal Dataset with STGAN Baseline for Cloud and Cloud Shadow Removal"
 collection: talks
