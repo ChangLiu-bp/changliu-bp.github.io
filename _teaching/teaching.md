@@ -24,7 +24,6 @@ location: "Budapest, Hungary"
 ### 🧪 Project Laboratory (Supervisor) — Every Semester
 - Supervised lab projects during all semesters.
 
-## M.Sc. Thesis Supervision — Every Year
-- ZheXiong Xue — Honorably graduated in July 2025
-- Yang Xu — Honorably graduated in July 2025
-  
+## M.Sc. Thesis Supervision
+- See [Thesis Supervision](/teaching/thesis-supervision) for details.
+
