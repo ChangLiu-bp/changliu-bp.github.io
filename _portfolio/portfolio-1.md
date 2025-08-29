@@ -1,6 +1,6 @@
 ---
 title: "Human-Drone-communication"
-excerpt: "Demo of human-drone communication<br/><img src='/images/500x300.png'>"
+excerpt: "Demo of human-drone communication<br/><img src='/images/Drones.webp'>"
 collection: portfolio
 ---
 
