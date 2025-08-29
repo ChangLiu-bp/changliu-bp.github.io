@@ -3,7 +3,7 @@ title: "Real-Time Human Detection and Gesture Recognition for On-Board UAV Rescu
 collection: publications
 category: journal
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt:  "Unmanned aerial vehicles (UAVs) play an important role in numerous technical and scientific fields..."
+excerpt:  ""
 date: 2021-02-19
 venue: "Sensors 21 (6), 2180"
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
