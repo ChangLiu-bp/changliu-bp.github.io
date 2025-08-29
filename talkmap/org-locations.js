@@ -1,22 +1,27 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Gesture Recognition for UAV-based Rescue Operation based on Deep Learning<br />IMPROVE 2021; Online",
+    43.5904719,
+    3.8595132
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Seeing the World Differently: AI for Satellites, Drones and Mobile Robotics<br />Lead Workshop; Budapest",
+    47.4978789,
+    19.0402383
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "A Global Multi-Temporal Dataset with STGAN Baseline for Cloud and Cloud Shadow Removal<br />IMPROVE 2023; Prague, Czech Republic",
+    50.0596288,
+    14.4464593
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "UAV Path Planning based on Road Extraction<br />Proceedings of 2nd International Conference on Image Processing and Vision Engineering - IMPROVE 2022; Online",
+    43.5904719,
+    3.8595132
+  ],
+  [
+    "Active Wildfires Detection and Dynamic Escape Routes Planning for Humans through Information Fusion between Drones and Satellites<br />The 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023); Bilbao\uff0cSpain",
+    43.2630018,
+    -2.9350039
   ]
 ];
