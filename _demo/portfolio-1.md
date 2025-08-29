@@ -13,4 +13,4 @@ This demo shows how humans and drones interact using gesture recognition.
   <source src="/assets/DEMO-final.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-https://github.com/ChangLiu-bp/changliu-bp.github.io/tree/master/_portfolio
+https://github.com/ChangLiu-bp/changliu-bp.github.io/tree/master/_demo
