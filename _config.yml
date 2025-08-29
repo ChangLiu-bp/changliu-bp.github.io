@@ -225,7 +225,7 @@ collections:
     permalink: /:collection/:path/
   demo:
     output: true
-    permalink: /:collection/:path/
+    permalink: /demo/:path/
   talks:
     output: true
     permalink: /:collection/:path/
