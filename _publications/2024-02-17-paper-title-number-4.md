@@ -6,7 +6,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2023-09-27
 venue: 'The 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10421956'
 citation: 'Chang Liu, Tamas Sziranyi. (2023). &quot; Active Wildfires Detection and Dynamic Escape Routes Planning for Humans through Information Fusion between Drones and Satellites.&quot; <i>The 26th IEEE International Conference on Intelligent Transportation Systems </i>. IEEE ITSC 2023.'
 ---
 
