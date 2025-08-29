@@ -6,7 +6,7 @@ permalink: /publication/Conference
 excerpt: ''
 date: 2025-10-19
 venue: 'International Conference on Computer Vision, ICCV 2025 (DriveX) paper id 5'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2508.15537'
 citation: 'Chang Liu, Yang Xu, Tamas Sziranyi. (2025). &quot; D3FNet: A Differential Attention Fusion Network for Fine-Grained Road Structure Extraction in Remote Perception Systems.&quot; <i>International Conference on Computer Vision </i>.ICCV 2025.'
 ---
 
