@@ -1,7 +1,7 @@
 ---
 title: "Optimal Wildfire Escape Route Planning for Drones under Dynamic Fire and Smoke"
 collection: publications
-category: conferences
+category: conference
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2023-11-08
