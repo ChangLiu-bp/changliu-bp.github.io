@@ -6,7 +6,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2023-11-08
 venue: '17th International Conference on Signal Image Technology & Internet based Systems: IEEE SITIS 2023'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10472809'
 citation: 'Chang Liu, Tamas Sziranyi. (2023). &quot;Optimal Wildfire Escape Route Planning for Drones under Dynamic Fire and Smoke.&quot; <i>17th International Conference on Signal Image Technology & Internet based Systems</i>.IEEE SITIS 2023.'
 ---
 
