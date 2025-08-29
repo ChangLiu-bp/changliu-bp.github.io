@@ -3,7 +3,7 @@ title: "Teaching Experience"
 collection: teaching
 permalink: /teaching
 venue: "Budapest University of Technology and Economics (BME), Department of Networked Systems and Services"
-date: 2019
+date: 2019-09-01
 location: "Budapest, Hungary"
 ---
 
