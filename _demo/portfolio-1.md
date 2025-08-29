@@ -10,7 +10,7 @@ permalink: /demo/human-drone-communication/
 This demo shows how humans and drones interact using gesture recognition.
 
 <video width="640" height="360" controls>
-  <source src="/assets/DEMO-final.mp4" type="video/mp4">
+  <source src="/assets/DEMO-final version.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 https://github.com/ChangLiu-bp/changliu-bp.github.io/tree/master/_demo
