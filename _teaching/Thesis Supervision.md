@@ -3,7 +3,7 @@ title: "Thesis Supervision"
 collection: teaching
 permalink: /teaching
 venue: "Budapest University of Technology and Economics (BME), Department of Networked Systems and Services "
-date: 2024
+date: 2024-09-01
 location: "Budapest, Hungary"
 ---
 
