@@ -1,7 +1,14 @@
 ---
 title: "Human-Drone-communication"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Demo of human-drone communication<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Human-Drone Communication Demo
+
+This demo shows how humans and drones interact using gesture recognition.
+
+<video width="640" height="360" controls>
+  <source src="/assets/DEMO-final.mov" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
