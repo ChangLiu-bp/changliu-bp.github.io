@@ -7,7 +7,6 @@ date: 2024-09-01
 location: "Budapest, Hungary"
 ---
 
-
 ## MSC THESIS PROJECTS
 
 ### Cross-Domain Few-Shot and Zero-Shot Road Detection from Satellite to UAV Imagery
