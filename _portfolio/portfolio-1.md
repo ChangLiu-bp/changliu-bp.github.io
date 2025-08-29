@@ -9,6 +9,6 @@ collection: portfolio
 This demo shows how humans and drones interact using gesture recognition.
 
 <video width="640" height="360" controls>
-  <source src="/assets/DEMO-final.mov" type="video/quicktime">
+  <source src="/assets/DEMO-final.MP4" type="video/quicktime">
   Your browser does not support the video tag.
 </video>
