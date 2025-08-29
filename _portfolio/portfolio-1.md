@@ -1,7 +1,7 @@
 ---
-title: "Human-Drone-communication"
+title: "Human-Drone Communication"
 excerpt: "Demo of human-drone communication<br/><img src='/images/Drones.webp'>"
-collection: portfolio
+collection: demo
 permalink: /demo/human-drone-communication/
 ---
 
@@ -10,6 +10,6 @@ permalink: /demo/human-drone-communication/
 This demo shows how humans and drones interact using gesture recognition.
 
 <video width="640" height="360" controls>
-  <source src="/assets/DEMO-final.MP4" type="video/quicktime">
+  <source src="/assets/DEMO-final.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
