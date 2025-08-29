@@ -20,4 +20,4 @@ location: "Budapest, Hungary"
 - Semester: 2024-2025. Coordinator: Liu Chang PhD
 
 ### Deep Learning-Based Multi-Modal Narrow Road Extraction for UAV and Satellite Imagery
-- - Semester: 2024-2025. Coordinator: Liu Chang PhD
+- Semester: 2024-2025. Coordinator: Liu Chang PhD
