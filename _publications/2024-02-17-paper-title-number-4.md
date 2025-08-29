@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "Active Wildfires Detection and Dynamic Escape Routes Planning for Humans through Information Fusion between Drones and Satellites"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+excerpt: ''
+date: 2023-09
+venue: 'The 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: 'Chang Liu, Tamas Sziranyi. (2023). &quot; Active Wildfires Detection and Dynamic Escape Routes Planning for Humans through Information Fusion between Drones and Satellites.&quot; <i>The 26th IEEE International Conference on Intelligent Transportation Systems </i>. IEEE ITSC 2023.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+UAVs are playing an increasingly important role in the field of wilderness rescue by virtue of their flexibility. This paper proposes a fusion of UAV vision technology and satellite image analysis technology for active wildfires detection and road networks extraction of wildfire areas and real-time dynamic escape route planning for people in distress. Firstly, the fire source location and the segmentation of smoke and flames are targeted based on Sentinel 2 satellite imagery. Secondly, the road segmentation and the road condition assessment are performed by D-linkNet and NDVI values in the central area of the fire source by UAV. Finally, the dynamic optimal route planning for humans in real time is performed by the weighted A* algorithm in the road network with the dynamic fire spread model. Taking the Chongqing wildfire on August 24, 2022, as a case study, the results demonstrate that the dynamic escape route planning algorithm can provide an optimal real-time navigation path for humans in the presence of fire through the information fusion of UAVs and satellites.
