@@ -1,8 +1,8 @@
 ---
 title: "Thesis Supervision"
 collection: teaching
-permalink: /teaching
-venue: "Budapest University of Technology and Economics (BME), Department of Networked Systems and Services "
+permalink: /teaching/thesis-supervision
+venue: "Budapest University of Technology and Economics (BME), Department of Networked Systems and Services"
 date: 2024-09-01
 location: "Budapest, Hungary"
 ---
@@ -21,3 +21,4 @@ location: "Budapest, Hungary"
 
 ### Deep Learning-Based Multi-Modal Narrow Road Extraction for UAV and Satellite Imagery
 - Semester: 2024-2025. Coordinator: Liu Chang PhD
+
