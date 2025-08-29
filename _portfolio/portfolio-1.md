@@ -1,7 +1,7 @@
 ---
 title: "Human-Drone Communication"
 excerpt: "Demo of human-drone communication<br/><img src='/images/Drones.webp'>"
-collection: demo
+collection: portfolio
 permalink: /demo/human-drone-communication/
 ---
 
