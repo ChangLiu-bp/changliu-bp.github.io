@@ -6,8 +6,8 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
 date: 2025-01-25
 venue: 'IEEE Internet of Things Journal'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10855548/'
 citation: 'J Hu, S Luo, J Lai, C Liu. (2025). &quot; Enhanced Infrastructure Enabled Perception System Based on Edge Computing.&quot; <i>IEEE Internet of Things Journal</i>. vol. 12, no. 11, pp. 16493-16510, 1 June1, 2025, doi: 10.1109/JIOT.2025.3532317.'
 ---
 
