@@ -9,15 +9,20 @@ location: "Budapest, Hungary"
 
 ## MSc Thesis Projects
 
-### Cross-Domain Few-Shot and Zero-Shot Road Detection from Satellite to UAV Imagery
+### Cross-Domain Transfer Learning for Road Extraction from Satellite to UAV
 - Semester: 2025–2026  
 - Coordinator: Liu Chang, PhD  
-- Status: 🟢 Open
+- Status: ⏳ In progress — expected graduation July 2026
 
-### LLM and Diffusion-Based Intelligent Path Planning and Execution for Spot Robot
+### Multi-Modal Image Segmentation for UAV and Remote Sensing
 - Semester: 2025–2026  
 - Coordinator: Liu Chang, PhD  
-- Status: 🟢 Open
+- Status: ⏳ In progress — expected graduation July 2026
+
+### Design of a Multi-Parameter Soil Sensing and Sampling System for Legged Robots
+- Semester: 2025–2026  
+- Coordinator: Liu Chang, PhD  
+- Status: ⏳ In progress — expected graduation July 2026
 
 ### Comparison of Path Planning Algorithms for Autonomous Vehicles Based on UAV-Extracted Roadmaps
 - Semester: 2024–2025  
