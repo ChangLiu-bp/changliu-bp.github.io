@@ -37,8 +37,4 @@ location: "Budapest, Hungary"
   - Student: [Yang Xu](https://www.linkedin.com/in/ACoAAC-RGo0BIWqD0xU_9FITUvjoiq2-WzVfog8/)
 
 
-<p align="center">
-  <img src="/assets/images/meeting.jpg" alt="Meeting with students" width="600">
-  <br>
-  <em>Meeting with MSc students, 2024 </em>
-</p>
+
