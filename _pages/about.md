@@ -9,7 +9,8 @@ redirect_from:
 
 # Asst. Prof. Chang Liu (Cuki) 
 
-👋 Welcome! I am **Dr. Chang Liu**. I received my MSc in Electrical Engineering and PhD in Computer Engineering from **Budapest University of Technology and Economics (BME), Hungary**. I am currently an **Assistant Professor** in the Department of Networked Systems and Services at the Faculty of Electrical Engineering and Informatics (VIK), BME, and a **Research Fellow** at the Machine Perception Research Laboratory, HUN-REN Institute for Computer Science and Control (HUN-REN SZTAKI).
+👋 Welcome!
+I am **Dr. Chang Liu**, an Assistant Professor in the Department of Networked Systems and Services, Faculty of Electrical Engineering and Informatics (VIK), at the Budapest University of Technology and Economics (BME), Hungary. I received my MSc in Electrical Engineering and PhD in Computer Engineering from BME. I am also a **Research Fellow** at the Machine Perception Research Laboratory, HUN-REN Institute for Computer Science and Control (HUN-REN SZTAKI).
 
 🚀 My research interests include:
 
