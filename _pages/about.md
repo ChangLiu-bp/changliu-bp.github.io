@@ -21,9 +21,9 @@ I am **Dr. Chang Liu**, an Assistant Professor in the Department of Networked Sy
 - 🚗 Autonomous Driving Applications
 
 🌟 Professional Leadership:
-Currently serving as Chair of the IEEE Hungary Section Intelligent Transportation Systems Society (ITSS) Chapter, 2025–2027
+Currently serving as **Chair** of the IEEE Hungary Section Intelligent Transportation Systems Society (ITSS) Chapter, 2025–2027
 
-✨ I welcome applications from master’s students in their final year and PhD students enrolling in Spring 2027 who are interested in research projects related to these fields.
+✨ I welcome applications from **master’s students** in their final year and **PhD students** enrolling in Spring 2027 who are interested in research projects related to these fields.
 📬 **Interested in my research?** 
 Please send your **CV and transcript** to 📧 [changliu@hit.bme.hu](mailto:changliu@hit.bme.hu); [changliu@sztaki.hu](mailto:changliu@sztaki.hu)  
 
