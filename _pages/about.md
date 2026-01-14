@@ -28,6 +28,8 @@ Please send your **CV and transcript** to 📧 [changliu@hit.bme.hu](mailto:chan
 ---
 
 ## 📰 News 
+- *2025-12*: 🇭🇺🚀 IEEE Hungary Section ITSS Chapter Established!
+Proud to serve as Chair of the newly approved IEEE Hungary Section Intelligent Transportation Systems Society (ITSS) Chapter!
 - *2025-08*: ✈️ **2 papers accepted** at **ICCV 2025**, Oct 19–23, Honolulu, Hawai'i 🎉
 - *2025-06*: 🎉 Honored to receive the **Intézeti díj (Institute Award)** from **HUN-REN SZTAKI** 🏆  
 - *2025-06*: Paper accepted at **67th International Symposium ELMAR-2025** 15-17 September 2025 Zadar, Croatia✈️
