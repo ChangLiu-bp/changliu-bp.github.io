@@ -9,6 +9,16 @@ location: "Budapest, Hungary"
 
 ## MSc Thesis Projects
 
+### Mamba-based Framework for Narrow Road Segmentation in High-Resolution Satellite Imagery
+- Semester: 2025–2026  
+- Coordinator: Liu Chang, PhD  
+- Status: ⏳ In progress — expected graduation December 2026
+- 
+### Feasibility Investigation of Vision-Based Control Methods for Small-Scale Drones
+- Semester: 2025–2026  
+- Coordinator: Liu Chang, PhD  
+- Status: ⏳ In progress — expected graduation July 2026
+
 ### Cross-Domain Transfer Learning for Road Extraction from Satellite to UAV
 - Semester: 2025–2026  
 - Coordinator: Liu Chang, PhD  
