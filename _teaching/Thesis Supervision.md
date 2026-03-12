@@ -13,7 +13,7 @@ location: "Budapest, Hungary"
 - Semester: 2025–2026  
 - Coordinator: Liu Chang, PhD  
 - Status: ⏳ In progress — expected graduation December 2026
-- 
+  
 ### Feasibility Investigation of Vision-Based Control Methods for Small-Scale Drones
 - Semester: 2025–2026  
 - Coordinator: Liu Chang, PhD  
