@@ -23,7 +23,7 @@ I am an [Assistant Professor](https://medianets.hu/staff/chang-liu/) in the Depa
 - 🚗 Autonomous Driving Applications
 
 🌟 Professional Leadership:
-Currently serving as **Chair** of the IEEE Hungary Section Intelligent Transportation Systems Society (ITSS) Chapter, 2025–2027
+Currently serving as **Chair** of the [IEEE Hungary Section Intelligent Transportation Systems Society (ITSS) Chapter](https://ieee-itss.org/chapters-committees/hungary-chapter/), 2025–2027.
 
 ✨ I welcome applications from **master’s students** in their final year and **PhD students** enrolling in Spring 2027 who are interested in research projects related to these fields.
 📬 **Interested in my research?** 
