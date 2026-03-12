@@ -33,6 +33,7 @@ Please send your **CV and transcript** to 📧 [changliu@hit.bme.hu](mailto:chan
 ---
 
 ## 📰 News 
+- *2026-03*: 🇸🇪✈️ **Erasmus+ Staff Mobility at KTH Royal Institute of Technology**, Stockholm, Sweden.
 - *2025-12*: 🇭🇺🚀 **IEEE Hungary Section ITSS Chapter Established!**
 Proud to serve as **Chair** of the newly approved **IEEE Hungary Section Intelligent Transportation Systems Society (ITSS) Chapter!**
 - *2025-08*: ✈️ **2 papers accepted** at **ICCV 2025**, Oct 19–23, Honolulu, Hawai'i 🎉
