@@ -28,16 +28,12 @@ I am an [Assistant Professor](https://medianets.hu/staff/chang-liu/) in the Depa
 Please send your **CV and transcript** to 📧 [changliu@hit.bme.hu](mailto:changliu@hit.bme.hu); [changliu@sztaki.hu](mailto:changliu@sztaki.hu)  
 
 
-## Professional Service and Leadership
+## 🌍 Professional Service and Leadership
 
 - **Chair**, [IEEE Hungary Section Intelligent Transportation Systems Society (ITSS) Chapter](https://ieee-itss.org/chapters-committees/hungary-chapter/), 2025–2027  
-
 - **Committee Member**, [IEEE ITSS Young Professionals Committee](https://ieee-itss.org/yp/), 2022–Present  
-
 - **Publicity Chair**, [RoboI 2025](https://www.roboi.org/committees.html), Osaka, Japan, Nov 20–22, 2025  
-
 - **Session Co-Chair**, Air Transport Session, *26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)*, Bilbao, Spain, Nov 17–19, 2023  
-
 - **Session Chair**, Deep Learning & Neural Networks (Session 2A), *3rd International Conference on Image Processing and Vision Engineering (IMPROVE 2023)*, Prague, Czech Republic, April 22, 2023  
 
 ---
