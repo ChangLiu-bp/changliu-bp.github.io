@@ -49,10 +49,10 @@ Teaching
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
   
-Service and Leadership
+Professional Service and Leadership
 ======
 
-- **Chair**, IEEE Hungary Section Intelligent Transportation Systems Society (ITSS) Chapter, 2025–2027
+- **Chair**, [IEEE Hungary Section Intelligent Transportation Systems Society (ITSS) Chapter](https://ieee-itss.org/chapters-committees/hungary-chapter/?portfolioCats=154%2C159%2C183%2C158%2C161%2C153%2C155), 2025–2027
 
 - **Publicity Chair**, [RoboI 2025](https://www.roboi.org/committees.html), Osaka, Japan, Nov 20–22, 2025
 
@@ -60,7 +60,7 @@ Service and Leadership
 
 - **Session Chair**, Deep Learning & Neural Networks (Session 2A), *3rd International Conference on Image Processing and Vision Engineering (IMPROVE 2023)*, Prague, Czech Republic, April 22, 2023
 
-- **Committee Member**, IEEE ITSS Young Professionals Committee, 2022–Present
+- **Committee Member**, [IEEE ITSS Young Professionals Committee](https://ieee-itss.org/yp/), 2022–Present
 
 
 Mentorship and Supervision
