@@ -41,7 +41,7 @@ Please send your **CV and transcript** to 📧 [changliu@hit.bme.hu](mailto:chan
 
 ## 📰 News 
 * *2026-06*: 🇪🇺🇸🇪 Awarded the **Erasmus+ Staff Mobility Grant** for a research visit as a Visiting Assistant Professor at the **[Mobility Informatics Lab](https://zhenliangma.com/people/)**, **Division of Transport Planning**, **KTH Royal Institute of Technology**, Stockholm, Sweden.
-- *2026-05*: 🎉Paper accepted at IEEE ITSC 2026, September 15–18, Naples, Italy 🇮🇹. Paper: “Multimodal Drivers’ Emotion Recognition and Safety-Oriented Intervention for Intelligent Transportation Systems” 🚗🧠📊
+* *2026-05*: 🎉 Paper accepted at [IEEE ITSC 2026](https://ieee-itsc.org/2026/), September 15–18, Naples, Italy 🇮🇹. Paper: “Multimodal Drivers’ Emotion Recognition and Safety-Oriented Intervention for Intelligent Transportation Systems” 🚗🧠📊
 - *2026-04*: 🇪🇺🇸🇪 Awarded **Erasmus+ Staff Mobility Grant** for a research visit as a Visiting Assistant Professor at KTH Royal Institute of Technology, Stockholm, Sweden.
 - *2025-12*: 🇭🇺🚀 **IEEE Hungary Section ITSS Chapter Established!**
 Proud to serve as **Chair** of the newly approved **IEEE Hungary Section Intelligent Transportation Systems Society (ITSS) Chapter!**
