@@ -1,29 +1,41 @@
 ---
+
 title: "Teaching Experience"
 collection: teaching
 permalink: /teaching
 venue: "Budapest University of Technology and Economics (BME), Department of Networked Systems and Services"
 date: 2019-09-01
 location: "Budapest, Hungary"
----
+-----------------------------
 
-## Courses by Semester
+## Courses and Teaching Activities
 
-### 🌐 Communication Networks — Spring Semester
-- Introduction to network fundamentals and protocols.
-- Weekly labs with practical exercises.
+### 📡 Advanced Mobile and Wireless Networks (VIHIMA16)
 
-### 📘 Basics of Programming 1 — Fall Semester
-- Fundamental programming concepts using C.
-- Weekly coding assignments and quizzes.
+* Lecturer, Fall semesters.
+* Teaching advanced topics in mobile and wireless communication systems.
 
-### 📡 Advanced Mobile and Wireless Networks (VIHIMA16) — Fall Semester
-- Advanced concepts in mobile and wireless communications.
-- Lectures every week for 2 hours.
+### 💻 Basics of Programming 1
 
-### 🧪 Project Laboratory (Supervisor) — Every Semester
-- Supervised lab projects during all semesters.
+* Practice and Laboratory Instructor, Fall semesters.
+* Teaching fundamental programming concepts in C through classroom exercises and hands-on laboratory sessions.
+
+### 🌐 Communication Networks
+
+* Laboratory Instructor, Spring semesters.
+* Teaching network fundamentals, communication protocols, and practical networking exercises.
+
+### 🎓 University Experience 1
+
+* Mentor for international first-year students.
+* Supporting students in adapting to university studies, academic requirements, and student life at BME.
+
+### 🧪 Project Laboratory
+
+* Supervisor, every semester.
+* Supervising student research projects in computer vision, autonomous systems, remote sensing, robotics, and intelligent transportation systems.
 
 ## M.Sc. Thesis Supervision
-- See [Thesis Supervision](/_teaching/Thesis-Supervision) for details.
 
+* Supervising M.Sc. thesis students in autonomous driving, UAVs, remote sensing, multimodal perception, path planning, and robotics.
+* See [Thesis Supervision](/teaching/thesis-supervision) for current and completed thesis projects.
