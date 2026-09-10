@@ -38,4 +38,5 @@ location: "Budapest, Hungary"
 ## M.Sc. Thesis Supervision
 
 * Supervising M.Sc. thesis students in autonomous driving, UAVs, remote sensing, multimodal perception, path planning, and robotics.
+* **5 M.Sc. students have successfully graduated under my supervision.**
 * See [Thesis Supervision](/teaching/thesis-supervision) for current and completed thesis projects.
