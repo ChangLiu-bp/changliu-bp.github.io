@@ -37,7 +37,7 @@ Please send your **CV and transcript** to 📧 [changliu@hit.bme.hu](mailto:chan
 - **Chair**, [IEEE Hungary Section Intelligent Transportation Systems Society (ITSS) Chapter](https://ieee-itss.org/chapters-committees/hungary-chapter/), 2025–2027  
 - **Committee Member**, [IEEE ITSS Young Professionals Committee](https://ieee-itss.org/yp/), 2022–Present  
 - **Publicity Chair**, [Roboi 2025](https://www.roboi.org/committees.html), Osaka, Japan, Nov 20–22, 2025
-- **Associate Editor**, ICVES 2026, Cochabamba, Bolivia, November 9–11, 2026
+- **Associate Editor**, IEEE ICVES 2026, Cochabamba, Bolivia, November 9–11, 2026
 - **TPC Member**, NMAI 2027, Hong Kong, February 26–28, 2027
 - **Session Co-Chair**, Air Transport Session, *26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)*, Bilbao, Spain, Nov 17–19, 2023  
 - **Session Chair**, Deep Learning & Neural Networks (Session 2A), *3rd International Conference on Image Processing and Vision Engineering (IMPROVE 2023)*, Prague, Czech Republic, April 22, 2023  
