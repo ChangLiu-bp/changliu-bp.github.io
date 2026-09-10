@@ -17,17 +17,17 @@ location: "Budapest, Hungary"
 
 ### 💻 Basics of Programming 1
 
-* Practice and Laboratory Instructor, Fall semesters.
+* Practice and Laboratory, Fall semesters.
 * Teaching fundamental programming concepts in C through classroom exercises and hands-on laboratory sessions.
 
 ### 🌐 Communication Networks
 
-* Laboratory Instructor, Spring semesters.
+* Laboratory, Spring semesters.
 * Teaching network fundamentals, communication protocols, and practical networking exercises.
 
 ### 🎓 University Experience 1
 
-* Mentor for international first-year students.
+* English Circle Group Leader for international first-year students.
 * Supporting students in adapting to university studies, academic requirements, and student life at BME.
 
 ### 🧪 Project Laboratory
