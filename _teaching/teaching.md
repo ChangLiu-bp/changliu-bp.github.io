@@ -7,6 +7,7 @@ date: 2019-09-01
 location: "Budapest, Hungary"
 ---
 
+
 ## Courses and Teaching Activities
 
 ### 📡 Advanced Mobile and Wireless Networks (VIHIMA16)
