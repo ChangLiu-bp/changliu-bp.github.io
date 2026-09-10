@@ -13,33 +13,40 @@ redirect_from:
 I am an [Assistant Professor](https://medianets.hu/staff/chang-liu/) in the Department of Networked Systems and Services ([HIT](https://www.hit.bme.hu/staff)), Faculty of Electrical Engineering and Informatics ([VIK](https://www.vik.bme.hu/en/)), at the Budapest University of Technology and Economics ([BME](https://www.bme.hu/en)), Hungary. I received both my MSc in Electrical Engineering and PhD in Computer Engineering from BME-VIK. I am also a [Research Fellow](https://sztaki.hun-ren.hu/en/organisation/departments/mplab/chang-liu) at the Machine Perception Research Laboratory ([MPLAB](https://sztaki.hun-ren.hu/en/organisation/departments/mplab)), HUN‑REN Institute for Computer Science and Control ([HUN‑REN SZTAKI](https://sztaki.hun-ren.hu/en)). I currently serve as **Chair** of the [IEEE Hungary Section Intelligent Transportation Systems Society (ITSS) Chapter](https://ieee-itss.org/chapters-committees/hungary-chapter/).
 
 
+## 🚀 Research Interests
 
-🚀 My research interests include:
+My research interests include:
 
-- 🤖 Artificial Intelligence & Deep Learning
-- 🖼️ Machine Vision & Remote Sensing
-- 🚁 UAV-based Rescue Systems
-- 🛰️ Satellite–Drone Collaboration for Navigation and Road Extraction
-- 🚗 Autonomous Driving Applications
+* 🤖 Artificial Intelligence & Deep Learning
+* 🖼️ Machine Vision & Multimodal Perception
+* 🛰️ Remote Sensing
+* 🚁 UAV-based Rescue and Autonomous Systems
+* 🛰️ Satellite–Drone Collaboration for Navigation and Road Extraction
+* 🚗 Autonomous Driving and Intelligent Transportation Systems
+* 🤖 Robotics and Autonomous Sensing
 
+✨ I welcome applications from **MSc students** and **prospective PhD students** who are interested in research projects related to these fields.
 
-✨ I welcome applications from **master’s students** in their final year and **PhD students** enrolling in Spring 2027 who are interested in research projects related to these fields.
-📬 **Interested in my research?** 
-Please send your **CV and transcript** to 📧 [changliu@hit.bme.hu](mailto:changliu@hit.bme.hu); [changliu@sztaki.hu](mailto:changliu@sztaki.hu)  
+📬 **Interested in my research?**
+Please send your **CV and transcript** to 📧 [changliu@hit.bme.hu](mailto:changliu@hit.bme.hu) or [changliu@sztaki.hu](mailto:changliu@sztaki.hu).
 
+---
 
 ## 🌍 Professional Service and Leadership
 
 - **Chair**, [IEEE Hungary Section Intelligent Transportation Systems Society (ITSS) Chapter](https://ieee-itss.org/chapters-committees/hungary-chapter/), 2025–2027  
 - **Committee Member**, [IEEE ITSS Young Professionals Committee](https://ieee-itss.org/yp/), 2022–Present  
-- **Publicity Chair**, [Roboi 2025](https://www.roboi.org/committees.html), Osaka, Japan, Nov 20–22, 2025  
+- **Publicity Chair**, [Roboi 2025](https://www.roboi.org/committees.html), Osaka, Japan, Nov 20–22, 2025
+- **Associate Editor**, ICVES 2026, Cochabamba, Bolivia, November 9–11, 2026
+- **TPC Member**, NMAI 2027, Hong Kong, February 26–28, 2027
 - **Session Co-Chair**, Air Transport Session, *26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)*, Bilbao, Spain, Nov 17–19, 2023  
 - **Session Chair**, Deep Learning & Neural Networks (Session 2A), *3rd International Conference on Image Processing and Vision Engineering (IMPROVE 2023)*, Prague, Czech Republic, April 22, 2023  
 
 ---
 
-
 ## 📰 News 
+* *2026-09*: 🇮🇹 Invited to give a workshop talk and participate in the Industry Panel at IEEE ITSC 2026, Naples, Italy.
+* *2026-08*: 🎉 Student research paper accepted at CogMob 2026, Budapest, Hungary.
 * *2026-06*: 🇪🇺🇸🇪 Awarded the **Erasmus+ Staff Mobility Grant** for a research visit as a Visiting Assistant Professor at the **[Mobility Informatics Lab](https://zhenliangma.com/people/)**, **Division of Transport Planning**, **KTH Royal Institute of Technology**, Stockholm, Sweden.
 * *2026-05*: 🎉 Paper accepted at [IEEE ITSC 2026](https://ieee-itsc.org/2026/), September 15–18, Naples, Italy 🇮🇹. Paper: “Multimodal Drivers’ Emotion Recognition and Safety-Oriented Intervention for Intelligent Transportation Systems” 🚗🧠📊
 - *2026-04*: 🇪🇺🇸🇪 Awarded **Erasmus+ Staff Mobility Grant** for a research visit as a Visiting Assistant Professor at KTH Royal Institute of Technology, Stockholm, Sweden.
@@ -64,18 +71,25 @@ Check out my [Publications](/publications/) and [CV](/files/CV.pdf) for more det
 
 ---
 
-## 📚 Teaching
-I teach and supervise the following courses and projects:
 
-- 🌐 Communication Networks
-- 📘 [Basics of Programming 1](https://www.eet.bme.hu/~nemeth/index/)
-- 📡 Advanced Mobile and Wireless Networks (VIHIMA16)
-- 🧪 Project Laboratory (Supervisor)
-- 🎓 M.Sc. Thesis Supervisor — **Honorably graduated** in July 2025.
-  - [ZheXiong Xue](https://scholar.google.com.hk/citations?user=_IlWDnEBVQ8C&hl=en&oi=sra)
-  ；[Yang Xu](https://www.linkedin.com/in/ACoAAC-RGo0BIWqD0xU_9FITUvjoiq2-WzVfog8/)
+## 📚 Teaching and Student Supervision
 
+I teach and supervise courses, laboratory projects, and MSc theses at BME:
 
-📍 **Budapest, Hungary**  
-📧 [changliu@hit.bme.hu](mailto:changliu@hit.bme.hu) ; [changliu@sztaki.hu](mailto:changliu@sztaki.hu)  
+* 📡 **Advanced Mobile and Wireless Networks (VIHIMA16)** — Lecturer
+* 💻 **Basics of Programming 1** — Practice and Laboratory
+* 🌐 **Communication Networks** — Laboratory 
+* 🎓 **University Experience 1** — English Circle Leader for international first-year students
+* 🧪 **Project Laboratory** — Supervisor
+* 🎓 **MSc Thesis Supervision** — Supervisor of research projects in autonomous driving, UAVs, remote sensing, multimodal perception, path planning, and robotics
+
+See my [Teaching Experience](/teaching) and [Thesis Supervision](/teaching/thesis-supervision) pages for more details.
+
+---
+
+📍 **Budapest, Hungary**
+📧 [changliu@hit.bme.hu](mailto:changliu@hit.bme.hu) | [changliu@sztaki.hu](mailto:changliu@sztaki.hu)
 🌐 [Google Scholar](https://scholar.google.com.hk/citations?user=-azXsEwAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0001-6610-5348) | [ResearchGate](https://www.researchgate.net/profile/Chang-Liu-367) | [GitHub](https://github.com/ChangLiu-bp) | [LinkedIn](https://www.linkedin.com/in/dr-chang-liu-9305a7180/)
+
+
+
