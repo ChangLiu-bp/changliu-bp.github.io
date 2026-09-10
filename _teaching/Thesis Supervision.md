@@ -17,22 +17,25 @@ location: "Budapest, Hungary"
 ### Feasibility Investigation of Vision-Based Control Methods for Small-Scale Drones
 - Semester: 2025–2026  
 - Coordinator: Liu Chang, PhD  
-- Status: ⏳ In progress — expected graduation July 2026
+- Status: ⏳ In progress — expected graduation October 2026
 
 ### Cross-Domain Transfer Learning for Road Extraction from Satellite to UAV
 - Semester: 2025–2026  
 - Coordinator: Liu Chang, PhD  
-- Status: ⏳ In progress — expected graduation July 2026
+- Status: 🎓 Graduated in July 2026
+- Student: Zhou Hanbo
 
 ### Multi-Modal Image Segmentation for UAV and Remote Sensing
 - Semester: 2025–2026  
 - Coordinator: Liu Chang, PhD  
-- Status: ⏳ In progress — expected graduation July 2026
+- Status: 🎓 Honorably graduated in July 2026
+- Student: Xia Xihang
 
 ### Design of a Multi-Parameter Soil Sensing and Sampling System for Legged Robots
 - Semester: 2025–2026  
 - Coordinator: Liu Chang, PhD  
-- Status: ⏳ In progress — expected graduation July 2026
+- Status: 🎓 Graduated in July 2026
+- Student: Xu Xiuyi
 
 ### Comparison of Path Planning Algorithms for Autonomous Vehicles Based on UAV-Extracted Roadmaps
 - Semester: 2024–2025  
