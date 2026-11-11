@@ -65,7 +65,7 @@ Proud to serve as **Chair** of the newly approved **IEEE Hungary Section Intelli
 - *2023-09*: Presented **“Active Wildfires Detection and Dynamic Escape Routes Planning for Humans through Information Fusion between Drones and Satellites”** at **IEEE ITSC 2023**, Bilbao, Spain 🌍🚁✈️
 - *2023-02*: Selected as **Committee Member of IEEE ITSS Young Professionals** 👩‍💻 [IEEE ITSS YP](https://ieee-itss.org/yp/)
 - *2022-11*: Awarded **IEEE ITSS Young Professionals Travelling Fellowship 2022**, 25–27 November 2022, Chania, Crete, Greece ✈️
-- *2022-09*: Article **“Road Condition Detection and Emergency Rescue Recognition Using On-Board UAV in the Wildness”**, *Remote Sensing 14 (17), 4355* 📡
+- *2022-09*: Article **“Road Condition Detection and Emergency Rescue Recognition Using On-Board UAV in the Wilderness”**, *Remote Sensing 14 (17), 4355* 📡
 - *2021*: Article **“Real-Time Human Detection and Gesture Recognition for On-Board UAV Rescue”**, selected as **Editor’s Choice Article** 🏆
 
 Check out my [Publications](/publications/) and [CV](/files/CV.pdf) for more details.
