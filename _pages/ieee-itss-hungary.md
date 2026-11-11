@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "IEEE ITSS Hungary Chapter"
