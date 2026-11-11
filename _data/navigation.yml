@@ -17,6 +17,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+  - title: "IEEE ITSS Hungary"
+    url: /ieee-itss-hungary/
+
   - title: "Talks"
     url: /talks/   
 
