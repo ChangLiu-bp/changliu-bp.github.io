@@ -34,8 +34,8 @@ Please send your **CV and transcript** to 📧 [changliu@hit.bme.hu](mailto:chan
 
 ## 🌍 Professional Service and Leadership
 
-- **Chair**, [IEEE Hungary Section Intelligent Transportation Systems Society (ITSS) Chapter](https://ieee-itss.org/chapters-committees/hungary-chapter/), 2025–2027  
-- **Committee Member**, [IEEE ITSS Young Professionals Committee](https://ieee-itss.org/yp/), 2022–Present  
+- **Chair**, [IEEE Hungary Section Intelligent Transportation Systems Society (ITSS) Chapter](https://ieee-itss.org/chapters-committees/hungary-chapter/), 2025–Present  
+- **Committee Member**, [IEEE ITSS Young Professionals Committee](https://ieee-itss.org/yp/), 2023–Present  
 - **Publicity Chair**, [Roboi 2025](https://www.roboi.org/committees.html), Osaka, Japan, Nov 20–22, 2025
 - **Associate Editor**, IEEE ICVES 2026, Cochabamba, Bolivia, November 9–11, 2026
 - **TPC Member**, NMAI 2027, Hong Kong, February 26–28, 2027
