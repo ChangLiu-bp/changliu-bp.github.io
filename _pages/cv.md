@@ -20,7 +20,8 @@ Education
 ## Work Experience
 
 - **2024 – Present:** Assistant Professor, Department of Networked Systems and Services, Faculty of Electrical Engineering and Informatics (VIK), BME   
-- **2022 – Present:** Research Fellow, Machine Perception Research Laboratory, HUN-REN Institute of Computer Science and Control (SZTAKI)  
+- **2022 – Present:** Research Fellow, Machine Perception Research Laboratory, HUN-REN Institute of Computer Science and Control (SZTAKI)
+- **April – June 2026:** **Visiting Assistant Professor (Erasmus+ Staff Mobility)**, [Mobility Informatics Lab](https://zhenliangma.com/people/), Division of Transport Planning, [KTH Royal Institute of Technology](https://www.kth.se/en), Stockholm, Sweden
 - **01/11/2018 – 01/02/2019:** IT Intern, 360.World, Budapest, Hungary  
 - **01/04/2018 – 31/07/2018:** IT Engineer Intern, Huawei Technologies Hungary Kft.  
 
