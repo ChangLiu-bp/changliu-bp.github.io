@@ -75,7 +75,7 @@ Check out my [Publications](/publications/) and [CV](/files/CV.pdf) for more det
 
 ## 📚 Teaching and Student Supervision
 
-I teach and supervise courses, laboratory projects, and MSc theses at BME:
+I teach and supervise courses, laboratory projects, and theses at BME:
 
 * 📡 **Advanced Mobile and Wireless Networks (BMEVIHIMA16)** — Lecturer
 * 💻 **Basics of Programming 1** — Practice and Laboratory
