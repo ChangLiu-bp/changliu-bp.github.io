@@ -55,7 +55,7 @@ Professional Service and Leadership
 
 - **Chair**, [IEEE Hungary Section Intelligent Transportation Systems Society (ITSS) Chapter](https://ieee-itss.org/chapters-committees/hungary-chapter/?portfolioCats=154%2C159%2C183%2C158%2C161%2C153%2C155), 2025–2027
 
-- **Publicity Chair**, [RoboI 2025](https://www.roboi.org/committees.html), Osaka, Japan, Nov 20–22, 2025
+- **Publicity Chair**, [Roboi 2025](https://www.roboi.org/committees.html), Osaka, Japan, Nov 20–22, 2025
 
 - **Session Co-Chair**, Air Transport Session, *26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)*, Bilbao, Spain, Nov 17–19, 2023
 
