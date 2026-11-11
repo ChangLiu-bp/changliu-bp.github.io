@@ -25,7 +25,7 @@ My research interests include:
 * 🚗 Autonomous Driving and Intelligent Transportation Systems
 * 🤖 Robotics and Autonomous Sensing
 
-✨ I welcome applications from **MSc students** and **prospective PhD students** who are interested in research projects related to these fields.
+✨ I welcome applications from **MSc students** and *PhD students** who are interested in research projects related to these fields.
 
 📬 **Interested in my research?**
 Please send your **CV and transcript** to 📧 [changliu@hit.bme.hu](mailto:changliu@hit.bme.hu) or [changliu@sztaki.hu](mailto:changliu@sztaki.hu).
