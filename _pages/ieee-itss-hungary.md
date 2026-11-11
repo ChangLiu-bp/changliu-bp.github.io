@@ -5,7 +5,6 @@ permalink: /ieee-itss-hungary/
 author_profile: true
 ---
 
-
 **IEEE Hungary Section – Intelligent Transportation Systems Society (ITSS) Chapter**
 
 **Established:** 14 December 2025  
@@ -15,6 +14,7 @@ author_profile: true
 [Official IEEE ITSS Hungary Chapter Website](https://ieee-itss.org/chapters-committees/hungary-chapter/)
 
 ---
+
 
 ## About the Chapter
 
