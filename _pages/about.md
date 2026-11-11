@@ -83,7 +83,7 @@ I teach and supervise courses, laboratory projects, and MSc theses at BME:
 * 🌐 **Communication Networks** — Laboratory 
 * 🎓 **University Experience 1** — English Circle Leader for international first-year students
 * 🧪 **Project Laboratory** — Supervisor
-* 🎓 **MSc Thesis Supervision** — Supervisor of research projects in autonomous driving, UAVs, remote sensing, multimodal perception, path planning, and robotics
+* 🎓 **BSc and MSc Thesis Supervision** — Supervisor of research projects in autonomous driving, UAVs, remote sensing, multimodal perception, path planning, and robotics
 
 See my [Teaching Experience](/teaching) and [Thesis Supervision](/teaching/thesis-supervision) pages for more details.
 
