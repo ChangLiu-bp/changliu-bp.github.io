@@ -24,7 +24,7 @@ My students work on both theoretical and applied research, including multimodal 
 - **Status:** ⏳ In progress — expected graduation in December 2026
 
 ### Feasibility Investigation of Vision-Based Control Methods for Small-Scale Drones
-- **Student:** Luca Boninsegna
+- **Student:** [Luca Boninsegna](https://www.linkedin.com/in/luca-boninsegna-b9b968293/)
 - **Academic Year:** 2025–2026
 - **Status:** 🎓 Graduated with Highest Honors in October 2026
 
