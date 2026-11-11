@@ -5,7 +5,6 @@ permalink: /ieee-itss-hungary/
 author_profile: true
 ---
 
-# IEEE ITSS Hungary Chapter
 
 **IEEE Hungary Section – Intelligent Transportation Systems Society (ITSS) Chapter**
 
