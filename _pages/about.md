@@ -78,7 +78,7 @@ Check out my [Publications](/publications/) and [CV](/files/CV.pdf) for more det
 
 I teach and supervise courses, laboratory projects, and MSc theses at BME:
 
-* 📡 **Advanced Mobile and Wireless Networks (VIHIMA16)** — Lecturer
+* 📡 **Advanced Mobile and Wireless Networks (BMEVIHIMA16)** — Lecturer
 * 💻 **Basics of Programming 1** — Practice and Laboratory
 * 🌐 **Communication Networks** — Laboratory 
 * 🎓 **University Experience 1** — English Circle Leader for international first-year students
